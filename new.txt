@@ -1,1 +1,2 @@
 this is a text file I am writing
+this is what I am writing 
